@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy some milk",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "Play gloomhaven",
+      "isFav": false
+    },
+    {
+      "title": "Make a lunch",
+      "isFav": true,
+      "id": 4235
+    },
+    {
+      "title": "I love civ",
+      "isFav": false,
+      "id": 9692
+    },
+    {
+      "title": "I need current feeling",
+      "isFav": true,
+      "id": 3709
+    }
+  ]
+}
